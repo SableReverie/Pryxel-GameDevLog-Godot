@@ -54,7 +54,7 @@ Currently learning:
 
 ## 📸 Screenshots
 
-![Terrain Screenshot](docs/screenshots/terrain_01.png)
+![Terrain Screenshot](https://docs.google.com/document/d/1HokZ9sJ6YYmaE6Yq7ER_9B0sg-X_rchQ9N3JPMbgVlM/edit?tab=t.0)
 
 ---
 
